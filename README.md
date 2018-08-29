@@ -17,4 +17,4 @@ so here i have tried doing the deployment of app with help of heroku platform.I 
 For deployment :-
 
 Kindly refer this link for deployment guide
-https://towardsdatascience.com/build-develop-and-deploy-a-machine-learning-model-to-predict-cars-price-using-gradient-boosting-2d4d78fddf09
+https://pybit.es/deploy-flask-heroku.html
