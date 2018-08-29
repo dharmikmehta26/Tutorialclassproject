@@ -11,7 +11,7 @@ This is Data Science process to build and deploy a Machine Learning Model that c
 5.Data Modeling
 6.Model Deployment
 
-Most of data science beginners know about creating and best accurate model but doesnt know how to deploy the model in real time production.
+Most of data science beginners know about creating a best accurate model but doesnt know how to deploy the model in real time production.
 so here i have tried doing the deployment of app with help of heroku platform.I am still in a learning phase so many of app styling codes have refered from google project.
 
 For deployment :-
